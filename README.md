@@ -214,7 +214,13 @@ final_confidence = raw_confidence x defense_adjustment x stat_adjustment x citat
 **Full Results Page:** See [result.html](result.html) for an interactive view of the detection results.
 
 ---
+**Full Results Page:**
 
+![Result Preview](result.png)
+
+See [result.html](result.html) for an interactive view of the detection results.
+
+---
 ### Tech Stack
 
 - **Frontend:** React 19 + Vite 8 + Ant Design 6
@@ -469,7 +475,11 @@ final_confidence = raw_confidence x 辩护调整 x 统计调整 x 引用调整
 
 ![Detection](detecting.png)
 
-**完整结果页面：** 参见 [result.html](result.html)，可查看检测结果的交互式页面。
+**完整页面**
+
+![Result Preview](result.png)
+
+See [result.html](result.html) for an interactive view of the detection results.
 
 ---
 
