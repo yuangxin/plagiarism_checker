@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node
+node_modules/
+
+# Uploads (runtime)
+uploads/
+
+# Environment & secrets
+.env
+api_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated reports & output
+*.docx
+test_output/
+dataset/*.docx
+
+# Cache
+.cache/
+*.npy
+
+# Temp
+*.tmp
+*.bak
